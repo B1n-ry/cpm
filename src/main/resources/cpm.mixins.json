@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.b1n4ry.cpm.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "TridentEntityModelMixin",
+    "TridentEntityModelAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
