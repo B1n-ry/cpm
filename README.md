@@ -1,4 +1,4 @@
-#CPM (Custom Projectile Models)
+# CPM (Custom Projectile Models)
 
 CPM is a minecraft mod built with the fabric mod loader, and will try to integrate projectile entity models in resource packs. 
 
